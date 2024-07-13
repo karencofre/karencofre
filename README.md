@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://giphy.com/gifs/naruto-shippuden-FfKvT4v2cnAwE"  />
+ <iframe src="https://giphy.com/embed/FfKvT4v2cnAwE" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/naruto-shippuden-FfKvT4v2cnAwE">via GIPHY</a></p>
 </div>
 
 ###
